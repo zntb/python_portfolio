@@ -18,3 +18,12 @@ Ea duis in excepteur pariatur amet quis cupidatat velit. Eu proident consequat d
 Mollit proident esse deserunt voluptate non aute velit adipisicing voluptate ex sunt. Laborum nostrud irure cupidatat est magna. Est reprehenderit laboris eu dolore occaecat eu duis. Officia labore eiusmod reprehenderit id.
         """
         st.info(content)
+        
+        
+st.write("---")
+
+content2 = """
+Elit elit proident consectetur duis ea adipisicing dolore aliqua pariatur pariatur magna sit.
+"""
+
+st.write(content2)
